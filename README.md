@@ -1,7 +1,7 @@
 # Flutter Quiz App
 Ez a Flutter alapú Quiz alkalmazás egy egyszerű, többlépcsős kvízt valósít meg, ahol a felhasználó kérdésekre válaszolhat, és azonnal visszajelzést kap helyes vagy helytelen válasz esetén. Az alkalmazás végén összesíti a válaszokat, és lehetőséget biztosít az újraindításra.
 
-#### A kvíz alkalmazás rugalmasan bővíthető, új kérdésekkel vagy funkciókkal, mint például időkorlát bevezetése, pontszámok mentése vagy különböző témák kezelése. ![Kezdő](https://github.com/user-attachments/assets/ff3ac91e-e2e6-4712-8f18-934c622dcbfa)
+#### A kvíz alkalmazás rugalmasan bővíthető, új kérdésekkel vagy funkciókkal, mint például időkorlát bevezetése, pontszámok mentése vagy különböző témák kezelése.
 
 
 ## Funkciók
@@ -15,7 +15,6 @@ Kérdések betöltése: Az alkalmazás egy data.json fájlban tárolt kérdések
 
 - **Pontszám összesítés:** Az utolsó kérdés után az alkalmazás összesíti a pontszámot, és lehetőséget biztosít a kvíz újraindítására.
 
-![Első kérdés](https://github.com/user-attachments/assets/0a18f83a-755b-4238-a36e-087314965f2c)
 
 ## Használat
 
@@ -43,8 +42,8 @@ Klónozd a repository-t:
 
 ```https://github.com/dajkagabi/flutter.git```
 
-- IDE kiválasztása (VISUAL STUDO CODE/ ANDROID STUDIO
-- 
+- IDE kiválasztása (VISUAL STUDIO CODE/ ANDROID STUDIO
+  
 - Nyisd meg a projektet a Flutter SDK-val.
 
 - Futtasd az alkalmazást:
