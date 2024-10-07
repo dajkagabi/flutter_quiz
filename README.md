@@ -40,7 +40,7 @@ Kérdések betöltése: Az alkalmazás egy data.json fájlban tárolt kérdések
 
 Klónozd a repository-t:
 
-```https://github.com/dajkagabi/flutter.git```
+```https://github.com/dajkagabi/flutter_quiz.git```
 
 - IDE kiválasztása (VISUAL STUDIO CODE/ ANDROID STUDIO
   
