@@ -42,7 +42,7 @@ Klónozd a repository-t:
 
 ```https://github.com/dajkagabi/flutter_quiz.git```
 
-- IDE kiválasztása (VISUAL STUDIO CODE/ ANDROID STUDIO
+- IDE kiválasztása (Visual Studio Code, Android Studio)
   
 - Nyisd meg a projektet a Flutter SDK-val.
 
