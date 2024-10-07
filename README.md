@@ -43,6 +43,8 @@ Klónozd a repository-t:
 
 ```https://github.com/dajkagabi/flutter.git```
 
+- IDE kiválasztása (VISUAL STUDO CODE/ ANDROID STUDIO
+- 
 - Nyisd meg a projektet a Flutter SDK-val.
 
 - Futtasd az alkalmazást:
