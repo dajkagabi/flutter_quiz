@@ -14,7 +14,7 @@ Kérdések betöltése: Az alkalmazás egy data.json fájlban tárolt kérdések
 - **Kérdések száma:** Az alkalmazás megjeleníti a kérdések számát, és minden kérdésnél nyomon követi a felhasználó haladását.
 
 - **Pontszám összesítés:** Az utolsó kérdés után az alkalmazás összesíti a pontszámot, és lehetőséget biztosít a kvíz újraindítására.
-- 
+
 ![Első kérdés](https://github.com/user-attachments/assets/0a18f83a-755b-4238-a36e-087314965f2c)
 
 ## Használat
