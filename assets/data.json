@@ -1,0 +1,235 @@
+[
+  {
+    "question": "What is Flutter?",
+    "answers": ["A web development framework", "A mobile development framework", "A programming language", "A database system"],
+    "correct_answer": "A mobile development framework"
+  },
+  {
+    "question": "Which programming language is used by Flutter?",
+    "answers": ["Java", "Kotlin", "Dart", "Swift"],
+    "correct_answer": "Dart"
+  },
+  {
+    "question": "Which company developed Flutter?",
+    "answers": ["Facebook", "Microsoft", "Apple", "Google"],
+    "correct_answer": "Google"
+  },
+  {
+    "question": "Which widget is used for creating an immutable container in Flutter?",
+    "answers": ["Container", "StatelessWidget", "StatefulWidget", "Text"],
+    "correct_answer": "StatelessWidget"
+  },
+  {
+    "question": "What is the main file in a Flutter project?",
+    "answers": ["index.html", "app.dart", "main.dart", "home.dart"],
+    "correct_answer": "main.dart"
+  },
+  {
+    "question": "Which command is used to create a new Flutter project?",
+    "answers": ["flutter init", "flutter create", "flutter start", "flutter new"],
+    "correct_answer": "flutter create"
+  },
+  {
+    "question": "How do you update the state in a StatefulWidget?",
+    "answers": ["setState()", "updateState()", "refresh()", "rebuild()"],
+    "correct_answer": "setState()"
+  },
+  {
+    "question": "What is a widget in Flutter?",
+    "answers": ["A UI element", "A programming language", "A database", "A function"],
+    "correct_answer": "A UI element"
+  },
+  {
+    "question": "Which of the following is not a lifecycle method in Flutter?",
+    "answers": ["initState", "dispose", "build", "setup"],
+    "correct_answer": "setup"
+  },
+  {
+    "question": "Which command is used to run a Flutter application on a device?",
+    "answers": ["flutter build", "flutter start", "flutter run", "flutter deploy"],
+    "correct_answer": "flutter run"
+  },
+  {
+    "question": "Which method is used to layout widgets in Flutter?",
+    "answers": ["layout()", "render()", "build()", "display()"],
+    "correct_answer": "build()"
+  },
+  {
+    "question": "Which of the following is true about StatefulWidget?",
+    "answers": [
+      "It does not maintain state",
+      "It can rebuild itself when the state changes",
+      "It is only used for static widgets",
+      "It is a subclass of StatelessWidget"
+    ],
+    "correct_answer": "It can rebuild itself when the state changes"
+  },
+  {
+    "question": "Which file contains the project dependencies in Flutter?",
+    "answers": ["pubspec.yaml", "config.yaml", "build.gradle", "dependencies.yaml"],
+    "correct_answer": "pubspec.yaml"
+  },
+  {
+    "question": "Which widget is used to handle user input in Flutter?",
+    "answers": ["TextField", "InputWidget", "UserInput", "Form"],
+    "correct_answer": "TextField"
+  },
+  {
+    "question": "How can you create a horizontal list in Flutter?",
+    "answers": [
+      "Using a Row widget",
+      "Using a Column widget",
+      "Using a ListView widget with the scrollDirection set to horizontal",
+      "Using a GridView widget"
+    ],
+    "correct_answer": "Using a ListView widget with the scrollDirection set to horizontal"
+  },
+  {
+    "question": "Which of the following is not a Flutter widget?",
+    "answers": ["Scaffold", "Container", "AppBar", "Linker"],
+    "correct_answer": "Linker"
+  },
+  {
+    "question": "What is the purpose of the 'Scaffold' widget in Flutter?",
+    "answers": [
+      "It provides a structure for the basic material design layout",
+      "It handles the state of the application",
+      "It is used to create animations",
+      "It is used to handle navigation"
+    ],
+    "correct_answer": "It provides a structure for the basic material design layout"
+  },
+  {
+    "question": "Which widget is used to create scrolling behavior in Flutter?",
+    "answers": ["ScrollView", "ListView", "ScrollWidget", "ScrollArea"],
+    "correct_answer": "ListView"
+  },
+  {
+    "question": "Which Flutter command would you use to update all packages in the project?",
+    "answers": ["flutter pub get", "flutter pub upgrade", "flutter update", "flutter build"],
+    "correct_answer": "flutter pub upgrade"
+  },
+  {
+    "question": "How do you add an image from the assets in Flutter?",
+    "answers": [
+      "Image.network('path')",
+      "Image.file('path')",
+      "Image.asset('path')",
+      "Image.local('path')"
+    ],
+    "correct_answer": "Image.asset('path')"
+  },
+  {
+    "question": "What is the difference between Hot Reload and Hot Restart in Flutter?",
+    "answers": [
+      "Hot Reload restarts the entire app, Hot Restart only reloads widgets",
+      "Hot Reload reloads only widget trees, Hot Restart restarts the app",
+      "There is no difference between them",
+      "Hot Reload clears the state, Hot Restart preserves it"
+    ],
+    "correct_answer": "Hot Reload reloads only widget trees, Hot Restart restarts the app"
+  },
+  {
+    "question": "Which widget is used to create a clickable button in Flutter?",
+    "answers": ["Clickable", "FlatButton", "ElevatedButton", "ButtonWidget"],
+    "correct_answer": "ElevatedButton"
+  },
+  {
+    "question": "Which widget is used to create a flexible space in a layout in Flutter?",
+    "answers": ["Spacer", "Align", "Center", "Flexible"],
+    "correct_answer": "Spacer"
+  },
+  {
+    "question": "What is the role of 'setState()' in a StatefulWidget?",
+    "answers": [
+      "It is used to update the UI with the new state",
+      "It is used to navigate between pages",
+      "It resets the application state",
+      "It saves data in the app"
+    ],
+    "correct_answer": "It is used to update the UI with the new state"
+  },
+  {
+    "question": "Which method is called when a widget is removed from the widget tree?",
+    "answers": ["dispose()", "remove()", "clear()", "delete()"],
+    "correct_answer": "dispose()"
+  },
+  {
+    "question": "Which command generates a release build for Android in Flutter?",
+    "answers": ["flutter build apk", "flutter build appbundle", "flutter build release", "flutter build ios"],
+    "correct_answer": "flutter build apk"
+  },
+  [
+    {
+      "question": "Which widget is used to manage app navigation in Flutter?",
+      "answers": ["Navigator", "Scaffold", "PageView", "Router"],
+      "correct_answer": "Navigator"
+    },
+    {
+      "question": "What method is used to navigate to a new screen in Flutter?",
+      "answers": ["Navigator.push()", "Navigator.pop()", "Navigator.open()", "Navigator.show()"],
+      "correct_answer": "Navigator.push()"
+    },
+    {
+      "question": "How do you return to the previous screen in Flutter?",
+      "answers": ["Navigator.push()", "Navigator.pop()", "Navigator.back()", "Navigator.close()"],
+      "correct_answer": "Navigator.pop()"
+    },
+    {
+      "question": "Which method allows you to replace the current screen with a new one in Flutter?",
+      "answers": ["Navigator.replace()", "Navigator.pushReplacement()", "Navigator.popAndPush()", "Navigator.reset()"],
+      "correct_answer": "Navigator.pushReplacement()"
+    },
+    {
+      "question": "What is the purpose of Navigator.pushNamed() in Flutter?",
+      "answers": [
+        "To navigate using named routes",
+        "To navigate without providing any route",
+        "To navigate to a specific widget directly",
+        "To navigate and pop multiple routes at once"
+      ],
+      "correct_answer": "To navigate using named routes"
+    },
+    {
+      "question": "How can you pass arguments to a new screen in Flutter?",
+      "answers": [
+        "By using the arguments property in Navigator.pushNamed()",
+        "By using Navigator.arguments()",
+        "By using RouteSettings()",
+        "By using context.arguments()"
+      ],
+      "correct_answer": "By using the arguments property in Navigator.pushNamed()"
+    },
+    {
+      "question": "What is the difference between Navigator.push() and Navigator.pushReplacement()?",
+      "answers": [
+        "Navigator.push() adds a new screen on top, while Navigator.pushReplacement() replaces the current screen",
+        "Navigator.push() removes the current screen, while Navigator.pushReplacement() does not",
+        "Navigator.push() works with stateless widgets only",
+        "There is no difference"
+      ],
+      "correct_answer": "Navigator.push() adds a new screen on top, while Navigator.pushReplacement() replaces the current screen"
+    },
+    {
+      "question": "How do you define named routes in Flutter?",
+      "answers": [
+        "Using the routes property in MaterialApp",
+        "Using the namedRoutes widget",
+        "By passing a Map to the Navigator",
+        "By setting a Route object"
+      ],
+      "correct_answer": "Using the routes property in MaterialApp"
+    },
+    {
+      "question": "Which method can be used to remove all previous screens and push a new one?",
+      "answers": ["Navigator.pushAndRemoveUntil()", "Navigator.clearStack()", "Navigator.reset()", "Navigator.popAll()"],
+      "correct_answer": "Navigator.pushAndRemoveUntil()"
+    },
+    {
+      "question": "Which widget provides navigation and routing in a Flutter web application?",
+      "answers": ["Router", "Navigator", "WebNavigator", "PageView"],
+      "correct_answer": "Router"
+    }
+  ]
+  
+]
