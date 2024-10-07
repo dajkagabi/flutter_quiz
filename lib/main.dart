@@ -81,13 +81,13 @@ class _QuizPageState extends State<QuizPage> {
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
             //Kérdések száma
-            /* Text(
+            Text(
               'Total Questions: $totalQuestions',
               style:
                   const TextStyle(fontSize: 18.0, fontWeight: FontWeight.bold),
             ),
             const SizedBox(height: 20),
-            */
+
             Text(
               currentQuestion['question'],
               style: const TextStyle(fontSize: 20.0),
